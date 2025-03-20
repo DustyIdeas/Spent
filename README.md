@@ -20,8 +20,17 @@
 
 - ❌ **Can’t Return:**  
   `Gas ($8.11) + Oil & LP Lights ($25.31) + Car Battery ($100.00) + Cover & Knob (41.39) + Car Registration (30)`  
-  **Total:** `$174.81`  
+  **Total:** `$204.81`  
 
 ---
+
+## **Total Refund Needed** 💸  
+- **Phones** 📱 ➔ `$252.42`  
+- **Car & MC** 🚗🏍️ ➔ `$204.81`  
+
+**Combined Total** ➔ **$457.23**
+
+---
+
 
 **🌟 Combined Total:** `$419.45 (Phones) + $365.95 (Parts) = $785.40`
